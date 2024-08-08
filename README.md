@@ -1,16 +1,24 @@
-## Hi there 👋
+# About me ⚡️
+Hi, I'm Toan! 
+`<`A coder working towards creating software that makes life easier and more significant`/>`
 
-<!--
-**atomatiz/atomatiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/atomatiz/atomatiz-readme-stats">
+    <img align="center" src="https://atomatiz-readme-stats.vercel.app/api?username=atomatiz&show_icons=true&CACHE_SECONDS=86400&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/atomatiz/atomatiz-readme-streak-stats">
+    <img align="center" src="https://atomatiz-readme-streak-stats.vercel.app?user=atomatiz&theme=chartreuse-dark"&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
+
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=atomatiz&color=brightgreen)
+
+Thanks for stopping by!
+
+Happy Coding! 🚀
